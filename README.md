@@ -49,9 +49,6 @@ Inputs: Multiple gene expression values
 
 Output: Predicted tumor size in cm
 
-📷 Screenshots
-Streamlit Interface
-<img width="565" height="365" alt="image" src="https://github.com/user-attachments/assets/c00781c4-fb84-49ea-b871-5e2ec8176c2a" />
 
 
 📦 Tech Stack
